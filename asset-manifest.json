@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nuthanc/react-gh-page/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nuthanc/react-gh-page/static/js/main.465637af.chunk.js",
+    "main.js.map": "/nuthanc/react-gh-page/static/js/main.465637af.chunk.js.map",
+    "runtime-main.js": "/nuthanc/react-gh-page/static/js/runtime-main.87cc79ef.js",
+    "runtime-main.js.map": "/nuthanc/react-gh-page/static/js/runtime-main.87cc79ef.js.map",
+    "static/js/2.f3406f12.chunk.js": "/nuthanc/react-gh-page/static/js/2.f3406f12.chunk.js",
+    "static/js/2.f3406f12.chunk.js.map": "/nuthanc/react-gh-page/static/js/2.f3406f12.chunk.js.map",
+    "index.html": "/nuthanc/react-gh-page/index.html",
+    "precache-manifest.0556b9525f833d8a02ccaacd0b6e03bd.js": "/nuthanc/react-gh-page/precache-manifest.0556b9525f833d8a02ccaacd0b6e03bd.js",
+    "service-worker.js": "/nuthanc/react-gh-page/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nuthanc/react-gh-page/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f3406f12.chunk.js.LICENSE.txt": "/nuthanc/react-gh-page/static/js/2.f3406f12.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nuthanc/react-gh-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87cc79ef.js",
+    "static/js/2.f3406f12.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.465637af.chunk.js"
+  ]
+}
